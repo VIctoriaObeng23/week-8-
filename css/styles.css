@@ -1,0 +1,25 @@
+.mum div {
+	background: rgb(13, 131, 129);
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	border-radius: 50%;
+	margin: 0.6rem;
+	padding: 10px;
+}
+#shiping{
+	position: absolute;
+	top: 0;
+	right: 0;
+	background-color: black;
+	color: white;
+	z-index: 2;
+	padding: 2px;
+}
+
+#red{
+	width: 10%;
+	height: 3px;
+	background-color: rgb(118, 9, 22);
+	margin: 0px auto;
+}
